@@ -1,9 +1,5 @@
 # Hi, I'm Mayara 👋
 
-<p align="center">
- <img src="./cyber-girl.png" width="85%" alt="Cybersecurity workspace">
-</p>
-
 Estudante de **Análise e Desenvolvimento de Sistemas**, em transição da Medicina Veterinária para Tecnologia, com foco em **Cybersecurity e Segurança da Informação**.
 
 Depois de anos atuando em um ambiente que exige pensamento analítico, tomada de decisão sob pressão, atenção aos detalhes e resolução de problemas, encontrei na tecnologia um novo caminho para aplicar essas habilidades enquanto desenvolvo uma nova base técnica.
